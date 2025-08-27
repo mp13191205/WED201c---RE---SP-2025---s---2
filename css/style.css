@@ -1,0 +1,123 @@
+.abc{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-item form{
+    margin-top: 32px;
+}
+
+.search-item form button{
+    background-color: #EA7016;
+    color: white;
+    border: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.logo-item img{
+    width: 70%;
+}
+
+.seller-content h1{
+    color: #EA7016;
+    text-align: center;
+}
+
+.body-content{
+    display: flex;
+}
+
+.body-part1{
+    width: 49.5%;
+    display: flex; 
+}
+
+
+.body-part2{
+    width: 49.5%;
+}
+
+.img-left{
+    width: 29.5%;
+}
+
+
+.img-left img{
+    width: 95%;
+    height: 200px;
+}
+
+.img-right{
+    width: 69.5%;
+}
+
+
+
+.img-right img{
+    width: 99.5%;
+}
+
+.khongcoten{
+    display: flex;  
+    /* text-align: center;  */
+        justify-content: space-between;
+}
+
+.khongcoten1{
+    margin-left:38%;
+    background-color: #179B93;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.khongcoten2{
+    margin-right: 38%;
+    background-color: #179B93;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.newyear{
+    text-align: center;
+    color: #EA7016;
+}
+
+.foot{
+    text-align: center;
+    background-color: #504C4B;
+    padding: 5px;
+    color: white;
+}
+
+.foot-content{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.foot-content img{
+    width: 80%;
+    height: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.buynow{
+    display: inline-block;
+    background-color: #179B93;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    color: white;
+}
